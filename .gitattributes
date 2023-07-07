@@ -1,0 +1,15 @@
+astar.vcxproj.user filter=lfs diff=lfs merge=lfs -text
+opencv2.vcxproj.user filter=lfs diff=lfs merge=lfs -text
+Debug filter=lfs diff=lfs merge=lfs -text
+README.md filter=lfs diff=lfs merge=lfs -text
+astar1.sln filter=lfs diff=lfs merge=lfs -text
+map.cpp filter=lfs diff=lfs merge=lfs -text
+map.h filter=lfs diff=lfs merge=lfs -text
+opencv_world470d.dll filter=lfs diff=lfs merge=lfs -text
+Astar.h filter=lfs diff=lfs merge=lfs -text
+x64 filter=lfs diff=lfs merge=lfs -text
+a_star.cpp filter=lfs diff=lfs merge=lfs -text
+astar.vcxproj filter=lfs diff=lfs merge=lfs -text
+astar.vcxproj.filters filter=lfs diff=lfs merge=lfs -text
+opencv2.vcxproj filter=lfs diff=lfs merge=lfs -text
+opencv2.vcxproj.filters filter=lfs diff=lfs merge=lfs -text
